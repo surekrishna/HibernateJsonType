@@ -1,0 +1,2 @@
+# HibernateJsonType
+creating new HibernateJsonType
